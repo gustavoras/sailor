@@ -2,7 +2,7 @@
 
  body { 
     background-image: url(./background6.gif);
-    background-size: 100%;
+    background-size: 150rem;
  }
 
 
@@ -19,5 +19,5 @@ align-items: center;
 p {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: yellow;
-    font-size: 100px;
+    font-size:  2rem;
 }
