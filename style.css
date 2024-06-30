@@ -1,0 +1,23 @@
+
+
+ body { 
+    background-image: url(./background6.gif);
+    background-size: 100%;
+ }
+
+
+div {
+
+ width: 100vw;
+ height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center; 
+
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: yellow;
+    font-size: 100px;
+}
